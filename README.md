@@ -15,6 +15,10 @@
 # System Overview
 ![System Overview](doc/System%20Overview%20-%202020-05-14%20A.jpg)
 
+- Plant Simulation 2020
+- Computer Vision
+- Embedded Simulation
+
 # System Requirement
 - Screen Resolution 1920x1080 (Unity)
 - Windows 10
