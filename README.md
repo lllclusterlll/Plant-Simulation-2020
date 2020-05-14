@@ -7,8 +7,9 @@
 - Resolution 1920x1080 (Unity)
 - Windows 10
 - Python
-  - Python 3.5
+  - Miniconda3 Windows 64-bit ([link](https://docs.conda.io/en/latest/miniconda.html))
+  - Python 3.5 (Virtual Environment) ([link](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html))
   - opencv-contrib-python
   - pyopengl
   - pygame
-  - Spout for Python [link](https://github.com/spiraltechnica/Spout-for-Python/tree/3a69345d23666b4f151f205f85e2d562f361dca3)
+  - Spout for Python ([link](https://github.com/spiraltechnica/Spout-for-Python/tree/3a69345d23666b4f151f205f85e2d562f361dca3))
