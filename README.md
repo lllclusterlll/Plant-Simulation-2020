@@ -2,9 +2,10 @@
 Plant Simulation เป็นโปรแกรมที่ใช้สำเป็นสื่อการเรียนการสอนในโครงการ**การประยุกต์ใช้จริงของเทคโนโลยีไอโอทีสำหรับภาคอุตสาหกรรม (Industrial Internet of Things: IIoT) ร่วมกับระบบฝังตัว (Embedded System) เทคโนโลยีความจริงเสริม (Augmented Reality: AR) และคอมพิวเตอร์วิชั่น (Computer Vision)**
 
 # System Overview
+![System Overview](doc/System%20Overview%20-%202020-05-14%20A.jpg)
 
-# Requirement
-- Resolution 1920x1080 (Unity)
+# System Requirement
+- Screen Resolution 1920x1080 (Unity)
 - Windows 10
 - Python
   - Python 3.5
