@@ -28,4 +28,3 @@
     - opencv-contrib-python
     - pyopengl
     - pygame
-    - Spout for Python ([link](https://github.com/spiraltechnica/Spout-for-Python/tree/3a69345d23666b4f151f205f85e2d562f361dca3))
