@@ -28,3 +28,19 @@
     - opencv-contrib-python
     - pyopengl
     - pygame
+
+# ใช้งาน
+## Plant Simulation (Unity)
+- เปิดใช้งาน `FIBO Plant Simulator 2020.exe`
+- ตั้งค่า Resolution `1920x1080`
+
+## Computer Vision (Python)
+- ตั้งค่า Resolution ใน Code ให้ตรงตาม Plant Simulation (1920x1080)
+- สำหรับเครื่องที่ใช้ CPU ที่มี APU ให้ทำการตั้งค่าการทำงานของ Python ใช้งาน GPU
+  - Nvidia GPU
+    - เปิดโปรแกรม NVIDIA Control Panel
+    - Manage 3D Setting -> Program Settings
+    - `1. Select a program to customize:` = python.exe
+    - `2. Select the preferred graphics processor for this program:` = High-performance NVIDIA processor
+  - AMD GPU
+    - ?
