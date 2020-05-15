@@ -22,6 +22,7 @@
 # System Requirement
 - Screen Resolution 1920x1080 (Unity)
 - Windows 10
+- Spout ([link](https://spout.zeal.co))
 - Miniconda3 Windows 64-bit ([link](https://docs.conda.io/en/latest/miniconda.html))
   - Python 3.5 (Virtual Environment) ([link](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html))
     - opencv-contrib-python
