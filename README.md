@@ -36,7 +36,7 @@
 
 ## Computer Vision (Python)
 - ตั้งค่า Resolution ใน Code ให้ตรงตาม Plant Simulation (1920x1080)
-- สำหรับเครื่องที่ใช้ CPU ที่มี APU ให้ทำการตั้งค่าการทำงานของ Python ใช้งาน GPU
+- สำหรับเครื่องที่ใช้ CPU ที่มี APU ต้องทำการตั้งค่าให้ Python ใช้งาน GPU ในการ Redner ดังนี้
   - Nvidia GPU
     - เปิดโปรแกรม NVIDIA Control Panel
     - Manage 3D Setting -> Program Settings
