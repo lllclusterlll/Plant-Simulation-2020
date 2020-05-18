@@ -22,9 +22,25 @@
 # System Requirement
 - Screen Resolution 1920x1080 (Unity)
 - Windows 10
+- Spout for Python [[link](https://github.com/spiraltechnica/Spout-for-Python)] (แนบไฟล์ `SpoutSDK.pyd` มาให้แล้ว)
 - Miniconda3 Windows 64-bit [[link](https://docs.conda.io/en/latest/miniconda.html)]
   - Python 3.5 (Virtual Environment) [[link](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)]
     - opencv-contrib-python
     - pyopengl
     - pygame
-    - Spout for Python [[link](https://github.com/spiraltechnica/Spout-for-Python/tree/3a69345d23666b4f151f205f85e2d562f361dca3)] (แนบไฟล์ `SpoutSDK.pyd` มาให้แล้ว)
+
+# ใช้งาน
+## Plant Simulation (Unity)
+- เปิดใช้งาน `FIBO Plant Simulator 2020.exe`
+- ตั้งค่า Resolution `1920x1080`
+
+## Computer Vision (Python)
+- ตั้งค่า Resolution ใน Code ให้ตรงตาม Plant Simulation (1920x1080)
+- สำหรับเครื่องที่ใช้ CPU ที่มี APU ให้ทำการตั้งค่าการทำงานของ Python ใช้งาน GPU
+  - Nvidia GPU
+    - เปิดโปรแกรม NVIDIA Control Panel
+    - Manage 3D Setting -> Program Settings
+    - `1. Select a program to customize:` = python.exe
+    - `2. Select the preferred graphics processor for this program:` = High-performance NVIDIA processor
+  - AMD GPU
+    - ?
