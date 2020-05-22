@@ -15,8 +15,8 @@
 # System Overview
 ![System Overview](Doc/System%20Overview%20-%202020-05-14%20A.jpg)
 
-- Plant Simulation 2020
-- Computer Vision
+- [Plant Simulation 2020](Application/Plant%20Simulation%202020)
+- [Computer Vision](Application/Computer%20Vision)
 - Embedded Simulation
 
 # System Requirement
@@ -35,7 +35,7 @@
 - ตั้งค่า Resolution `1920x1080`
 
 ## Computer Vision (Python)
-- ตั้งค่า Resolution ใน Code ให้ตรงตาม Plant Simulation (1920x1080)
+- ตั้งค่า Resolution ใน Code ให้ตรงตาม Plant Simulation
 - สำหรับเครื่องที่ใช้ CPU ที่มี APU ต้องทำการตั้งค่าให้ Python ใช้งาน GPU ในการ Redner ดังนี้
   - Nvidia GPU
     - เปิดโปรแกรม NVIDIA Control Panel
