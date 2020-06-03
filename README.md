@@ -2,7 +2,7 @@
 **Plant Simulation** เป็นโปรแกรมจำลองการทำงานของชุดลำเลียงชิ้นงานด้วยสายพานอย่างง่าย โปรแกรมถูกใช้เป็นสื่อการเรียนการสอนในโครงการ`การประยุกต์ใช้จริงของเทคโนโลยีไอโอทีสำหรับภาคอุตสาหกรรม (Industrial Internet of Things: IIoT) ร่วมกับระบบฝังตัว (Embedded System) เทคโนโลยีความจริงเสริม (Augmented Reality: AR) และคอมพิวเตอร์วิชั่น (Computer Vision)`
 
 ## Plant Simulation GUI
-![Plant Simulation GUI](Doc/Plant%20Simulation%20Example.jpg)
+![Plant Simulation GUI](Doc/Plant%20Simulation%20Example%20-%202020-06-04%20A%20.jpg)
 
 # Function
 - จำลองการทำงานของชุดลำเลียงชิ้นงานด้วยสายพานอย่างง่าย
