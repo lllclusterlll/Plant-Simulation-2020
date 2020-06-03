@@ -15,10 +15,6 @@
 # System Overview
 ![System Overview](Doc/System%20Overview%20-%202020-05-14%20A.jpg)
 
-- [Plant Simulation 2020](Application/Plant%20Simulation%202020)
-- [Computer Vision](Application/Computer%20Vision)
-- Embedded Simulation
-
 # System Requirement
 - Screen Resolution 1920x1080 (Unity)
 - Windows 10
@@ -29,7 +25,11 @@
     - pyopengl
     - pygame
 
-# ใช้งาน
+# Application
+- [Plant Simulation 2020](Application)
+- [System Integration](https://github.com/Cluster-APX/IIoT-System-Integration)
+
+# การใช้งาน
 ## Plant Simulation (Unity)
 - เปิดใช้งาน `FIBO Plant Simulator 2020.exe`
 - ตั้งค่า Resolution `1920x1080`
