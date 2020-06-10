@@ -25,7 +25,7 @@
     - pygame
 
 # Application
-- [System Integration](https://github.com/Cluster-APX/IIoT-System-Integration)
+- [Plant Simulation](Application)
 
 # การใช้งาน
 https://github.com/Cluster-APX/IIoT-System-Integration#%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99
